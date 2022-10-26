@@ -7,3 +7,6 @@
 [3- IBM Developer - Learn Kotlin](https://developer.ibm.com/series/learn-kotlin/)
 
 [4- Kotlin for Java Developers — Coursera](https://www.coursera.org/learn/kotlin-for-java-developers)
+
+[5- Kotlinlang](https://play.kotlinlang.org/byExample/overview)
+
